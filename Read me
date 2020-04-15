@@ -1,0 +1,32 @@
+pip install azure
+pip install flask
+pip install flask flask-cors simplejson
+ pip install pusher
+pip install virtualenv
+pip install translate
+pip install vaderSentiment
+pip install --upgrade nltk
+pip install --upgrade vaderSentiment
+pip install requests
+pip install azure-cognitiveservices-speech
+pip install matplotlib
+pip install SDK
+pip install Pillow
+pip install azure-ai-textanalytics
+pip install matplotlib
+pip install azure-cognitiveservices-vision-computervision
+
+
+
+for liza+API+Azure you have to install the following :
+pip install nytimes-top-stories
+pip install azure-ai-textanalytics
+
+
+top-stories api key :
+
+
+
+TEXT_ANALYTICAL Service AZURE :
+KEY1: 0a207f0e3d2b451397d75192b8ac90cc
+Endpoint: https://textanalytical.cognitiveservices.azure.com/
