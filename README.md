@@ -1,6 +1,8 @@
 # MultilingualChat
 pip install azure
+
 pip install flask
+
 pip install flask flask-cors simplejson
  pip install pusher
 pip install virtualenv
